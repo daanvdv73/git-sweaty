@@ -3118,5 +3118,18 @@
     "start_date_local": "2026-02-17T17:42:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 11850.1,
+    "elevation_gain": 186.0,
+    "id": "17463321067",
+    "moving_time": 2279.0,
+    "name": "ROUVY - Recovery Ride 2 | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-20T17:58:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

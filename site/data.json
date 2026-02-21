@@ -2159,6 +2159,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17429966100",
       "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 17,
+      "name": "ROUVY - Recovery Ride 2 | Team Visma | Lease a Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17463321067",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4227,11 +4236,20 @@
           "distance": 21431.5,
           "elevation_gain": 169.0,
           "moving_time": 2999.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "17463321067"
+          ],
+          "count": 1,
+          "distance": 11850.1,
+          "elevation_gain": 186.0,
+          "moving_time": 2279.0
         }
       }
     }
   },
-  "generated_at": "2026-02-20T15:28:51.877408+00:00",
+  "generated_at": "2026-02-21T15:13:54.472557+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
