@@ -2168,6 +2168,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17463321067",
       "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 15,
+      "name": "ROUVY - Endurance with a Kick 3 | Team Visma | Lease a Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17485364002",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4245,11 +4254,20 @@
           "distance": 11850.1,
           "elevation_gain": 186.0,
           "moving_time": 2279.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17485364002"
+          ],
+          "count": 1,
+          "distance": 41889.8,
+          "elevation_gain": 231.0,
+          "moving_time": 5432.0
         }
       }
     }
   },
-  "generated_at": "2026-02-22T15:14:11.843815+00:00",
+  "generated_at": "2026-02-23T07:51:28.880135+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
