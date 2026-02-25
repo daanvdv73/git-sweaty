@@ -2186,6 +2186,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17496502102",
       "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 17,
+      "name": "ROUVY - Rhythm of the Climb | Team Visma | Lease a Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17508669362",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4281,11 +4290,20 @@
           "distance": 15550.7,
           "elevation_gain": 107.0,
           "moving_time": 1799.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17508669362"
+          ],
+          "count": 1,
+          "distance": 34629.5,
+          "elevation_gain": 345.0,
+          "moving_time": 4799.0
         }
       }
     }
   },
-  "generated_at": "2026-02-24T02:01:12.737140+00:00",
+  "generated_at": "2026-02-25T02:03:39.977834+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",

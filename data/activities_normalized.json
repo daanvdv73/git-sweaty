@@ -3157,5 +3157,18 @@
     "start_date_local": "2026-02-23T18:16:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 34629.5,
+    "elevation_gain": 345.0,
+    "id": "17508669362",
+    "moving_time": 4799.0,
+    "name": "ROUVY - Rhythm of the Climb | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-24T17:48:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
