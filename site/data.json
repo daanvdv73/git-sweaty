@@ -2204,6 +2204,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17532467536",
       "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 17,
+      "name": "ROUVY - Aerobic with Attacks 2 | Team Visma | Lease a Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17543804375",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4317,11 +4326,20 @@
           "distance": 30301.8,
           "elevation_gain": 11.0,
           "moving_time": 3719.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17543804375"
+          ],
+          "count": 1,
+          "distance": 21291.7,
+          "elevation_gain": 365.0,
+          "moving_time": 3359.0
         }
       }
     }
   },
-  "generated_at": "2026-02-27T01:58:38.409064+00:00",
+  "generated_at": "2026-02-28T01:48:56.219646+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",

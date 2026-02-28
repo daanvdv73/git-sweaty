@@ -3183,5 +3183,18 @@
     "start_date_local": "2026-02-26T17:29:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 21291.7,
+    "elevation_gain": 365.0,
+    "id": "17543804375",
+    "moving_time": 3359.0,
+    "name": "ROUVY - Aerobic with Attacks 2 | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-27T17:48:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
