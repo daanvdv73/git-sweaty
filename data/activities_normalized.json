@@ -3196,5 +3196,18 @@
     "start_date_local": "2026-02-27T17:48:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-28",
+    "distance": 39885.5,
+    "elevation_gain": 223.0,
+    "id": "17553911859",
+    "moving_time": 5097.0,
+    "name": "ROUVY - Endurance with a Kick 4 | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-28T14:42:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
