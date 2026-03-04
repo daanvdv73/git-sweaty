@@ -3209,5 +3209,18 @@
     "start_date_local": "2026-02-28T14:42:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 21692.4,
+    "elevation_gain": 354.0,
+    "id": "17590847538",
+    "moving_time": 3509.0,
+    "name": "ROUVY - Over the Top 2 | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-03T17:50:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
