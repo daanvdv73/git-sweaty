@@ -2249,6 +2249,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17615910552",
       "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 16,
+      "name": "ROUVY - Endurance Ladder | Team Visma | Lease a Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17626563129",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4407,11 +4416,20 @@
           "distance": 17787.3,
           "elevation_gain": 5.0,
           "moving_time": 2279.0
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "17626563129"
+          ],
+          "count": 1,
+          "distance": 36164.6,
+          "elevation_gain": 439.0,
+          "moving_time": 5403.0
         }
       }
     }
   },
-  "generated_at": "2026-03-06T02:00:53.525990+00:00",
+  "generated_at": "2026-03-07T01:53:01.093616+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
