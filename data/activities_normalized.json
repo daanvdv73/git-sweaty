@@ -3261,5 +3261,18 @@
     "start_date_local": "2026-03-06T16:28:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 29122.5,
+    "elevation_gain": 311.0,
+    "id": "17635569800",
+    "moving_time": 3934.0,
+    "name": "ROUVY - FTP builder | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-07T12:54:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
