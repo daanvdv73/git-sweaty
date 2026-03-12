@@ -3274,5 +3274,18 @@
     "start_date_local": "2026-03-07T12:54:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 32993.8,
+    "elevation_gain": 490.0,
+    "id": "17687710118",
+    "moving_time": 4919.0,
+    "name": "ROUVY - Endless Effort | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T17:26:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
