@@ -3313,5 +3313,18 @@
     "start_date_local": "2026-03-13T17:12:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 20651.3,
+    "elevation_gain": 396.0,
+    "id": "17718728866",
+    "moving_time": 3599.0,
+    "name": "ROUVY - Base Ladder | Team Visma | Lease a Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T12:47:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
