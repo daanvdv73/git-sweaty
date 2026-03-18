@@ -3326,5 +3326,31 @@
     "start_date_local": "2026-03-14T12:47:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 20373.4,
+    "elevation_gain": 55.0,
+    "id": "17750459765",
+    "moving_time": 2719.0,
+    "name": "Woon-Werk",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T06:55:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 20651.3,
+    "elevation_gain": 59.0,
+    "id": "17756508862",
+    "moving_time": 2854.0,
+    "name": "Werk-Woon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T17:27:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

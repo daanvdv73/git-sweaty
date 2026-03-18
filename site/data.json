@@ -2303,6 +2303,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17718728866",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 6,
+      "name": "Woon-Werk",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17750459765",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 17,
+      "name": "Werk-Woon",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17756508862",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4181,6 +4199,18 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-03-17": {
+          "activity_ids": [
+            "17750459765",
+            "17756508862"
+          ],
+          "count": 2,
+          "distance": 41024.7,
+          "elevation_gain": 114.0,
+          "moving_time": 5573.0
+        }
+      },
       "VirtualRide": {
         "2026-01-03": {
           "activity_ids": [
@@ -4519,7 +4549,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T02:02:14.432041+00:00",
+  "generated_at": "2026-03-18T02:06:06.372218+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
