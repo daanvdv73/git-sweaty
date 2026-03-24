@@ -3378,5 +3378,31 @@
     "start_date_local": "2026-03-19T17:42:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 20634.0,
+    "elevation_gain": 54.0,
+    "id": "17824982266",
+    "moving_time": 2649.0,
+    "name": "Ochtendrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T07:04:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 20577.3,
+    "elevation_gain": 50.0,
+    "id": "17830892152",
+    "moving_time": 2563.0,
+    "name": "Avondrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T18:41:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
