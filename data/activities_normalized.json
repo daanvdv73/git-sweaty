@@ -3469,5 +3469,18 @@
     "start_date_local": "2026-04-16T17:19:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 43258.7,
+    "elevation_gain": 286.0,
+    "id": "18157673609",
+    "moving_time": 5210.0,
+    "name": "ROUVY - Xiju to Magong | Penghu | Taiwan",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-18T13:09:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
