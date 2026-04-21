@@ -3482,5 +3482,18 @@
     "start_date_local": "2026-04-18T13:09:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 29999.1,
+    "elevation_gain": 54.0,
+    "id": "18187389308",
+    "moving_time": 3310.0,
+    "name": "ROUVY - IRONMAN 70.3 Emilia Romagna 30 km",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-20T19:03:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

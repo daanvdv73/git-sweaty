@@ -2411,6 +2411,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18157673609",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 19,
+      "name": "ROUVY - IRONMAN 70.3 Emilia Romagna 30 km",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18187389308",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4701,11 +4710,20 @@
           "distance": 43258.7,
           "elevation_gain": 286.0,
           "moving_time": 5210.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18187389308"
+          ],
+          "count": 1,
+          "distance": 29999.1,
+          "elevation_gain": 54.0,
+          "moving_time": 3310.0
         }
       }
     }
   },
-  "generated_at": "2026-04-20T02:35:29.094563+00:00",
+  "generated_at": "2026-04-21T02:31:21.541547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
