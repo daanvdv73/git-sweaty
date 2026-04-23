@@ -3495,5 +3495,18 @@
     "start_date_local": "2026-04-20T19:03:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 21868.5,
+    "elevation_gain": 64.0,
+    "id": "18214210847",
+    "moving_time": 2905.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T17:41:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
