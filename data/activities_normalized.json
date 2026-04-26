@@ -3508,5 +3508,18 @@
     "start_date_local": "2026-04-22T17:41:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 101838.0,
+    "elevation_gain": 185.0,
+    "id": "18253022971",
+    "moving_time": 12754.0,
+    "name": "Middagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T12:30:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
