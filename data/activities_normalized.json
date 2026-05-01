@@ -3547,5 +3547,31 @@
     "start_date_local": "2026-04-27T17:06:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 20400.2,
+    "elevation_gain": 59.0,
+    "id": "18315025324",
+    "moving_time": 2613.0,
+    "name": "Ochtendrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T06:58:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 20197.4,
+    "elevation_gain": 63.0,
+    "id": "18320690117",
+    "moving_time": 2772.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T17:06:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
