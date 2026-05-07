@@ -2483,6 +2483,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18359483169",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 16,
+      "name": "ROUVY - 20 min FTP Test (10 min Warm-Up)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18400240133",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4829,11 +4838,20 @@
           "distance": 90338.9,
           "elevation_gain": 486.0,
           "moving_time": 10695.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18400240133"
+          ],
+          "count": 1,
+          "distance": 15906.1,
+          "elevation_gain": 5.0,
+          "moving_time": 1237.0
         }
       }
     }
   },
-  "generated_at": "2026-05-06T02:42:57.130516+00:00",
+  "generated_at": "2026-05-07T02:45:08.890937+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
