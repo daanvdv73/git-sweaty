@@ -2510,6 +2510,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18436787289",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 19,
+      "name": "Avondrit",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18481820794",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4484,6 +4493,15 @@
           "distance": 31244.6,
           "elevation_gain": 43.0,
           "moving_time": 3706.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18481820794"
+          ],
+          "count": 1,
+          "distance": 52824.4,
+          "elevation_gain": 107.0,
+          "moving_time": 7070.0
         }
       },
       "VirtualRide": {
@@ -4889,7 +4907,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T02:50:55.356618+00:00",
+  "generated_at": "2026-05-13T02:55:40.387049+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",

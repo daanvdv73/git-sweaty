@@ -3625,5 +3625,18 @@
     "start_date_local": "2026-05-09T11:51:52Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 52824.4,
+    "elevation_gain": 107.0,
+    "id": "18481820794",
+    "moving_time": 7070.0,
+    "name": "Avondrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T19:14:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
