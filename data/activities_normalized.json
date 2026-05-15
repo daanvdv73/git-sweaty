@@ -3638,5 +3638,18 @@
     "start_date_local": "2026-05-12T19:14:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 15402.0,
+    "elevation_gain": 152.8,
+    "id": "18503308915",
+    "moving_time": 2106.0,
+    "name": "MyWhoosh - 20 min ftp test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-14T13:39:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

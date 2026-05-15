@@ -2519,6 +2519,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18481820794",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 13,
+      "name": "MyWhoosh - 20 min ftp test",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18503308915",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4892,6 +4901,15 @@
           "distance": 15906.1,
           "elevation_gain": 5.0,
           "moving_time": 1237.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18503308915"
+          ],
+          "count": 1,
+          "distance": 15402.0,
+          "elevation_gain": 152.8,
+          "moving_time": 2106.0
         }
       },
       "Walk": {
@@ -4907,7 +4925,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T02:58:24.947968+00:00",
+  "generated_at": "2026-05-15T02:58:37.426346+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
