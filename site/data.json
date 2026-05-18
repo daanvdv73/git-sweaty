@@ -2528,6 +2528,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18503308915",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 17,
+      "name": "MyWhoosh - Phosphate 6",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18545527218",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4910,6 +4919,15 @@
           "distance": 15402.0,
           "elevation_gain": 152.8,
           "moving_time": 2106.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18545527218"
+          ],
+          "count": 1,
+          "distance": 27855.2,
+          "elevation_gain": 181.0,
+          "moving_time": 3520.0
         }
       },
       "Walk": {
@@ -4925,7 +4943,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T02:56:11.429830+00:00",
+  "generated_at": "2026-05-18T03:34:10.831076+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",

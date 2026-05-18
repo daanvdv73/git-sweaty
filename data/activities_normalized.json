@@ -3651,5 +3651,18 @@
     "start_date_local": "2026-05-14T13:39:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 27855.2,
+    "elevation_gain": 181.0,
+    "id": "18545527218",
+    "moving_time": 3520.0,
+    "name": "MyWhoosh - Phosphate 6",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-17T17:11:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
