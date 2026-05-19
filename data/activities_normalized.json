@@ -3664,5 +3664,18 @@
     "start_date_local": "2026-05-17T17:11:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 35209.8,
+    "elevation_gain": 0.0,
+    "id": "18556655292",
+    "moving_time": 3922.0,
+    "name": "MyWhoosh - TT Speed #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T17:18:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
