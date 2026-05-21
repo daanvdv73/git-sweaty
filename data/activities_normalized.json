@@ -3677,5 +3677,18 @@
     "start_date_local": "2026-05-18T17:18:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 63749.7,
+    "elevation_gain": 215.0,
+    "id": "18586633594",
+    "moving_time": 8106.0,
+    "name": "Avondrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T18:45:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
