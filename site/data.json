@@ -2600,6 +2600,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18774708669",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 11,
+      "name": "MyWhoosh - V02max Increase #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18821268487",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5046,6 +5055,15 @@
           "distance": 35209.8,
           "elevation_gain": 0.0,
           "moving_time": 3922.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18821268487"
+          ],
+          "count": 1,
+          "distance": 22503.8,
+          "elevation_gain": 502.0,
+          "moving_time": 3463.0
         }
       },
       "Walk": {
@@ -5061,7 +5079,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T03:45:30.872061+00:00",
+  "generated_at": "2026-06-08T03:54:09.224469+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
