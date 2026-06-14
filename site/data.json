@@ -2618,6 +2618,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18869845335",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 14,
+      "name": "Afternoon Stand Up Paddling",
+      "subtype": "StandUpPaddling",
+      "type": "StandUpPaddling",
+      "url": "https://www.strava.com/activities/18904035081",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4658,6 +4667,17 @@
           "moving_time": 10516.0
         }
       },
+      "StandUpPaddling": {
+        "2026-06-13": {
+          "activity_ids": [
+            "18904035081"
+          ],
+          "count": 1,
+          "distance": 1956.8,
+          "elevation_gain": 2.6,
+          "moving_time": 1159.0
+        }
+      },
       "VirtualRide": {
         "2026-01-03": {
           "activity_ids": [
@@ -5097,7 +5117,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T03:35:36.664905+00:00",
+  "generated_at": "2026-06-14T03:56:48.936948+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
@@ -5116,6 +5136,10 @@
       "accent": "#01cdfe",
       "label": "Run"
     },
+    "StandUpPaddling": {
+      "accent": "#72efdd",
+      "label": "Stand Up Paddling"
+    },
     "VirtualRide": {
       "accent": "#fee440",
       "label": "Virtual Ride"
@@ -5129,6 +5153,7 @@
     "AlpineSki",
     "Ride",
     "Run",
+    "StandUpPaddling",
     "VirtualRide",
     "Walk"
   ],
