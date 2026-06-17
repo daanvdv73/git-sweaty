@@ -3794,5 +3794,18 @@
     "start_date_local": "2026-06-13T14:58:24Z",
     "type": "StandUpPaddling",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 38217.0,
+    "elevation_gain": 62.0,
+    "id": "18945438551",
+    "moving_time": 4672.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T16:59:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
