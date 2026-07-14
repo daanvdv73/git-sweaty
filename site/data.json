@@ -2735,6 +2735,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19244927195",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19290152424",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19296736779",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4848,6 +4866,16 @@
           "distance": 40514.399999999994,
           "elevation_gain": 105.0,
           "moving_time": 5270.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19290152424",
+            "19296736779"
+          ],
+          "count": 2,
+          "distance": 40287.7,
+          "elevation_gain": 116.0,
+          "moving_time": 5242.0
         }
       },
       "StandUpPaddling": {
@@ -5311,7 +5339,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T02:39:30.423048+00:00",
+  "generated_at": "2026-07-14T02:22:19.628459+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
