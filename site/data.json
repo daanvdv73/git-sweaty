@@ -2807,6 +2807,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19866940000",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19898262308",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4976,6 +4985,15 @@
           "distance": 30585.2,
           "elevation_gain": 42.0,
           "moving_time": 3836.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19898262308"
+          ],
+          "count": 1,
+          "distance": 67301.9,
+          "elevation_gain": 139.0,
+          "moving_time": 8429.0
         }
       },
       "StandUpPaddling": {
@@ -5439,7 +5457,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T01:08:48.760331+00:00",
+  "generated_at": "2026-08-26T01:11:06.139214+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
