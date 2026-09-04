@@ -2825,6 +2825,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19980403441",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 16,
+      "name": "Zwift - FTP Test [Standard]",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20021393362",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5449,6 +5458,15 @@
           "distance": 30963.9,
           "elevation_gain": 144.0,
           "moving_time": 3361.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20021393362"
+          ],
+          "count": 1,
+          "distance": 21564.5,
+          "elevation_gain": 85.0,
+          "moving_time": 2238.0
         }
       },
       "Walk": {
@@ -5475,7 +5493,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T02:59:42.435998+00:00",
+  "generated_at": "2026-09-04T02:58:24.582793+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
