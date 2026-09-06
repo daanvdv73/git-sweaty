@@ -4093,5 +4093,18 @@
     "start_date_local": "2026-09-03T16:57:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 15168.3,
+    "elevation_gain": 70.0,
+    "id": "20042299818",
+    "moving_time": 1820.0,
+    "name": "Zwift - Pedaling Drills",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-05T09:11:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
