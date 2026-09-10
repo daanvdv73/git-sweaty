@@ -2861,6 +2861,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20090810993",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 17,
+      "name": "Zwift - Halvfems",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20105230445",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5521,6 +5530,15 @@
           "distance": 23470.6,
           "elevation_gain": 629.0,
           "moving_time": 3746.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20105230445"
+          ],
+          "count": 1,
+          "distance": 21423.8,
+          "elevation_gain": 550.0,
+          "moving_time": 3729.0
         }
       },
       "Walk": {
@@ -5547,7 +5565,7 @@
       }
     }
   },
-  "generated_at": "2026-09-09T03:08:57.876149+00:00",
+  "generated_at": "2026-09-10T03:09:17.593345+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
