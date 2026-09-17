@@ -4158,5 +4158,18 @@
     "start_date_local": "2026-09-11T15:06:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 31114.2,
+    "elevation_gain": 279.0,
+    "id": "20204147818",
+    "moving_time": 3635.0,
+    "name": "Zwift - What Goes Up, Must Come Down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-16T19:34:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
