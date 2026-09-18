@@ -4171,5 +4171,18 @@
     "start_date_local": "2026-09-16T19:34:12Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 27432.9,
+    "elevation_gain": 491.0,
+    "id": "20215669339",
+    "moving_time": 3726.0,
+    "name": "Zwift - Ham Sandwich",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T17:06:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
