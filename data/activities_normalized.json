@@ -4184,5 +4184,18 @@
     "start_date_local": "2026-09-17T17:06:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 40492.0,
+    "elevation_gain": 589.0,
+    "id": "20241312646",
+    "moving_time": 5542.0,
+    "name": "Zwift - Mishmash",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-19T14:35:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
