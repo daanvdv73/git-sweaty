@@ -4210,5 +4210,18 @@
     "start_date_local": "2026-09-22T16:55:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 61765.0,
+    "elevation_gain": 95.0,
+    "id": "20312949094",
+    "moving_time": 6369.0,
+    "name": "Zwift - Yellow Unicorn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-24T16:59:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
