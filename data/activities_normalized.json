@@ -4262,5 +4262,18 @@
     "start_date_local": "2026-09-29T16:57:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 62814.2,
+    "elevation_gain": 97.0,
+    "id": "20395260201",
+    "moving_time": 6324.0,
+    "name": "Zwift - Purple Unicorn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-30T16:52:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

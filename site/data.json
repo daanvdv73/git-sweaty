@@ -2951,6 +2951,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20380090790",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 16,
+      "name": "Zwift - Purple Unicorn",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20395260201",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5701,6 +5710,15 @@
           "distance": 33151.8,
           "elevation_gain": 53.0,
           "moving_time": 3687.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20395260201"
+          ],
+          "count": 1,
+          "distance": 62814.2,
+          "elevation_gain": 97.0,
+          "moving_time": 6324.0
         }
       },
       "Walk": {
@@ -5727,7 +5745,7 @@
       }
     }
   },
-  "generated_at": "2026-09-30T04:02:31.807549+00:00",
+  "generated_at": "2026-10-01T04:14:09.367534+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
