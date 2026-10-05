@@ -4288,5 +4288,18 @@
     "start_date_local": "2026-10-03T13:37:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 18940.8,
+    "elevation_gain": 1061.0,
+    "id": "20445019267",
+    "moving_time": 6515.0,
+    "name": "Zwift - Method",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-04T10:36:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
