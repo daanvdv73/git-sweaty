@@ -4301,5 +4301,18 @@
     "start_date_local": "2026-10-04T10:36:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 14285.5,
+    "elevation_gain": 1055.0,
+    "id": "20478167284",
+    "moving_time": 5700.0,
+    "name": "Zwift - Escalation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-06T18:14:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

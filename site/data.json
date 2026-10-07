@@ -2978,6 +2978,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20445019267",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "Zwift - Escalation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20478167284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5755,6 +5764,15 @@
           "distance": 18940.8,
           "elevation_gain": 1061.0,
           "moving_time": 6515.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20478167284"
+          ],
+          "count": 1,
+          "distance": 14285.5,
+          "elevation_gain": 1055.0,
+          "moving_time": 5700.0
         }
       },
       "Walk": {
@@ -5781,7 +5799,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T04:56:35.420523+00:00",
+  "generated_at": "2026-10-07T04:23:14.154609+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
