@@ -4327,5 +4327,18 @@
     "start_date_local": "2026-10-08T17:52:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 9155.5,
+    "elevation_gain": 594.0,
+    "id": "20515455375",
+    "moving_time": 3609.0,
+    "name": "Zwift - Tine",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-09T14:40:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

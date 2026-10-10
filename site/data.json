@@ -2996,6 +2996,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20504904976",
       "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 14,
+      "name": "Zwift - Tine",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20515455375",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5791,6 +5800,15 @@
           "distance": 9893.9,
           "elevation_gain": 651.0,
           "moving_time": 3610.0
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "20515455375"
+          ],
+          "count": 1,
+          "distance": 9155.5,
+          "elevation_gain": 594.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -5817,7 +5835,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T04:37:55.056334+00:00",
+  "generated_at": "2026-10-10T04:23:48.344940+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
