@@ -3014,6 +3014,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20542921791",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 15,
+      "name": "Zwift - Uphill Battle",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20568558783",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5827,6 +5836,15 @@
           "distance": 24320.4,
           "elevation_gain": 1585.0,
           "moving_time": 8771.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20568558783"
+          ],
+          "count": 1,
+          "distance": 12305.1,
+          "elevation_gain": 606.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -5853,7 +5871,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T05:32:20.946981+00:00",
+  "generated_at": "2026-10-14T03:35:25.176518+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
