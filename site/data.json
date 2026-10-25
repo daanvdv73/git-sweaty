@@ -3032,6 +3032,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20635228627",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 15,
+      "name": "Zwift - Road to Sky in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20713725137",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5863,6 +5872,15 @@
           "distance": 13119.7,
           "elevation_gain": 955.0,
           "moving_time": 5411.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20713725137"
+          ],
+          "count": 1,
+          "distance": 10255.0,
+          "elevation_gain": 436.0,
+          "moving_time": 2767.0
         }
       },
       "Walk": {
@@ -5889,7 +5907,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T03:20:36.278159+00:00",
+  "generated_at": "2026-10-25T03:15:46.372813+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
