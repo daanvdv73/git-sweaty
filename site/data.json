@@ -3050,6 +3050,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20766779386",
       "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 11,
+      "name": "Zwift - Chapman's Peak in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20906714109",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5899,6 +5908,15 @@
           "distance": 10104.1,
           "elevation_gain": 787.0,
           "moving_time": 4095.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20906714109"
+          ],
+          "count": 1,
+          "distance": 11599.4,
+          "elevation_gain": 189.0,
+          "moving_time": 1808.0
         }
       },
       "Walk": {
@@ -5925,7 +5943,7 @@
       }
     }
   },
-  "generated_at": "2026-11-08T04:30:35.742878+00:00",
+  "generated_at": "2026-11-09T04:43:14.808875+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
