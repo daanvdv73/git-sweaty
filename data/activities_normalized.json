@@ -4418,5 +4418,18 @@
     "start_date_local": "2026-11-08T11:57:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 9361.9,
+    "elevation_gain": 610.0,
+    "id": "20999219839",
+    "moving_time": 3011.0,
+    "name": "Zwift - France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T15:31:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

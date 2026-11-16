@@ -3059,6 +3059,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20906714109",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 15,
+      "name": "Zwift - France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20999219839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5917,6 +5926,15 @@
           "distance": 11599.4,
           "elevation_gain": 189.0,
           "moving_time": 1808.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20999219839"
+          ],
+          "count": 1,
+          "distance": 9361.9,
+          "elevation_gain": 610.0,
+          "moving_time": 3011.0
         }
       },
       "Walk": {
@@ -5943,7 +5961,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T04:52:13.097093+00:00",
+  "generated_at": "2026-11-16T04:48:29.126247+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
