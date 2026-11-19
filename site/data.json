@@ -3068,6 +3068,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20999219839",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 16,
+      "name": "Zwift - LOX",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21035748429",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5935,6 +5944,15 @@
           "distance": 9361.9,
           "elevation_gain": 610.0,
           "moving_time": 3011.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21035748429"
+          ],
+          "count": 1,
+          "distance": 4914.3,
+          "elevation_gain": 272.0,
+          "moving_time": 1454.0
         }
       },
       "Walk": {
@@ -5961,7 +5979,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T05:56:46.583861+00:00",
+  "generated_at": "2026-11-19T05:57:13.498988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48779016",
   "repo": "daanvdv73/git-sweaty",
